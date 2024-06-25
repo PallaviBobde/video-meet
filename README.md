@@ -27,16 +27,17 @@ The Video Meet App is designed to offer high-quality video conferencing capabili
 
 ## 📞 URLs
 
-- **Repo**: [https://github.com/yourusername/videomeetapp](https://github.com/yourusername/videomeetapp)
-- **View**: [https://yourusername.github.io/videomeetapp/](https://video-meet-iota.vercel.app/)
+- **Repo**: [https://github.com/PallaviBobde/video-meet](https://github.com/PallaviBobde/video-meet)
+- **View**: [https://video-meet-iota.vercel.app/](https://video-meet-iota.vercel.app/)
 
 ## 📞 Let's get in touch
 
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourname)
-- **GitHub**: [YourUsername](https://github.com/yourusername)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **Phone**: Your Phone Number
-- **Location**: Your Location
+## 📞 Let's get in touch
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+- **LinkedIn**: [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
+- **GitHub**: [PallaviBobde](https://github.com/PallaviBobde)
+- **Email**: [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
+
+Made with ❤️ by [PallaviBobde](https://github.com/PallaviBobde)
+
 
