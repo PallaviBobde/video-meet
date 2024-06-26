@@ -2,7 +2,7 @@
 
 # 🌟 Video Meet 💼
 
-![Video Meet App Logo](path/to/logo.png)
+![Video Meet App Logo](https://github.com/PallaviBobde/photo-resources/blob/main/Screenshot%202024-06-25%20at%207.52.28%E2%80%AFPM.png?raw=true)
 
 Welcome to the **Video Meet**! This app provides seamless video communication with rich UI components and real-time interaction.
 
